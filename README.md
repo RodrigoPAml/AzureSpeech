@@ -2,6 +2,8 @@
 
 A simple console application that generates a `.wav` audio file from the input text using Azure Speech services.
 
+You can check the example of generated audio in the `example_output.wav` file.
+
 ## Configuration
 
 Before running the application, set the `Key` and `Region` variables in the `Program.cs` file with your Azure Speech resource credentials.
