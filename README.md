@@ -12,3 +12,5 @@ Before running the application, set the `Key` and `Region` variables in the `Pro
 
 Once configured, you can select the desired voice and provide the text you want to synthesize.  
 The resulting audio will be saved as `output.wav`.
+
+![image](https://github.com/user-attachments/assets/8cd9652f-c406-440a-9eec-4f368af1f64e)
